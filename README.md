@@ -11,7 +11,7 @@ my vimrc
     
     
     if has('gui_running')
-        "set guioptions-=T  " no toolbar
+        set guioptions-=T  " no toolbar
         colorscheme desert
         set guifont=Consolas:h10:cANSI
     endif
