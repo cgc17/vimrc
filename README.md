@@ -7,7 +7,6 @@ my vimrc
     set expandtab
     set shiftwidth=4
     syntax on
-    imap <S-Tab> <Esc><<i
     
     
     if has('gui_running')
