@@ -12,3 +12,6 @@ if has('gui_running')
     colorscheme desert
     set guifont=Consolas:h10:cANSI
 endif
+
+execute pathogen#infect()
+let g:rainbow_active = 1 "0 if you want to enable later via :RainbowToggle
