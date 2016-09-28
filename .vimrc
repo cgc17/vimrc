@@ -5,6 +5,7 @@ set expandtab
 set shiftwidth=4
 "set clipboard=unnamed
 syntax on
+set cursorline
 
 
 if has('gui_running')
